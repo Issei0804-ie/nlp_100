@@ -4,5 +4,9 @@ import "chapter_one/question"
 
 func main() {
 	//	question.ReversedString()
-	question.Patatotakasi()
+	//  question.Patatotakasi()
+	//question.PatokaAndoTakusi()
+	// question.Pi()
+	//question.AtomicSymbols()
+	question.NGram()
 }
